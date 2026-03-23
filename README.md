@@ -1,1 +1,2 @@
-# hangji
+# Mas2025_Infantry1_Control
+山海Mas 2025赛季RMUC全向步兵电控代码开源
